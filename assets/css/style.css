@@ -4,6 +4,10 @@ header h2{
 
 }
 
+header h1{
+    font-family: 'Lobster', cursive;
+}
+
 main p{
     font-family: 'Playfair Display', serif;
 
