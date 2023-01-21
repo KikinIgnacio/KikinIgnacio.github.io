@@ -1,0 +1,36 @@
+
+header h2{
+    font-family: 'Anton', sans-serif;
+
+}
+
+main p{
+    font-family: 'Playfair Display', serif;
+
+}
+
+.boton-enviar{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.logo-desafio{
+    background-size: cover;
+    background-position: center;
+    width: 25%;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+footer i, footer p{
+    display: inline-block;
+
+}
+
+.copyright-logo {
+    text-align: center;
+}
+
+
